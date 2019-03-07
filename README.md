@@ -1,0 +1,1 @@
+Simple project to learn how to authenticate users using react + firebase
